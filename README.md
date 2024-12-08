@@ -1,4 +1,4 @@
-# C-ConstraintProgramming_NQueens
+# C++ConstraintProgramming_NQueens
 C++ implementation of Constraint Programming on the N Queens problem
 
 Several instances of the NQueens Problem has been solved through the following approaches - 
